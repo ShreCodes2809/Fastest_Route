@@ -92,7 +92,7 @@ Dijkstra's Algorithm consistently produced the **optimal path**, confirming its 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ShreCodes2809/Fastest_Route.git
-   cd route-optimizer
+   cd Fastest_Route
    ```
 
 2. **Sample Outputs**:
